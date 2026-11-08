@@ -1,0 +1,3 @@
+- Try a single-row layout on a 700 mm panel.
+- Keep the DS3231; the drift on the ESP32 RTC was noticeable.
+- Ask the joinery about a thinner walnut stock.
